@@ -1,0 +1,59 @@
+.cen{
+
+    font-size: 200%;
+}
+
+.pe1{
+    text-align:center
+}
+
+.t1{
+    width:"1100px"; 
+    height:"600px";
+}
+
+table, td {
+    
+    border:1px solid black;
+    
+}
+.tam{
+
+    size: 10;
+
+}
+  
+.cuadrado{
+padding:5px;
+margin:5px;
+background-color: #000000;
+border: solid 1px bla;
+color: white;
+}
+
+.cuadrado2{
+padding:5px;
+margin:5px;
+background-color: white;
+border: solid 1px bla;
+color: white;
+}
+
+.btn{
+color: white;  
+}
+
+.letra{
+font-size: 8px;
+color: #000000;
+font-family: Verdana;
+text-align: justify;
+}
+
+.invisible{
+color:white;
+
+}
+.table{
+border: 1;
+}
